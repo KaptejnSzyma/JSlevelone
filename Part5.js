@@ -1,5 +1,5 @@
 var hot = false
-var temp = 60
+var temp = 100
 
 if (temp>80) {
   hot = true
