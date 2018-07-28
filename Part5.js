@@ -1,6 +1,6 @@
 var hot = false
 var temp = 60
 
-if (true) {
-  console.log("I ran");
+if (temp>80) {
+  console.log("Temp is greater than 80");
 }
